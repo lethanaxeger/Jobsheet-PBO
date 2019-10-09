@@ -1,7 +1,7 @@
 # Jobsheet-PBO
 
 #Latihan 1
-![Alt Text]()
+![Alt Text](https://github.com/lethanfadlil/Jobsheet-PBO/blob/master/Dasar.png)
 
 #Latihan 2
 ![Alt Text](https://github.com/lethanfadlil/Jobsheet-PBO/blob/master/Variable.png)
