@@ -34,5 +34,7 @@ B.
 
 #Kesimpulan
 > Class adalah sebuah wadah yang didalamnya ada suatu fungsi objek yang memiliki sifat karakteristik dan fungsi tersendiri yang dimiliki oleh obej tersebut.
+
 > Method adalah bagian kode yang bisa dipanggil oleh program utama atau dari 'Method' lainnya untuk menjalankannya.
+
 > Object adalah benda atau sekumpulan kode yang terdiri dari variable dan method.
